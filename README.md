@@ -1,4 +1,5 @@
 # TG_catalogue
+This is the telegramm bot
 This is the first project on Python
 I used the aiogram and sklite3 libraries
 
